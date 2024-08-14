@@ -1,6 +1,6 @@
 # Welcome to Cenergistic
 
-This guide is for new employees. Follow the steps below to get started with your GitHub account and join our organization.
+This guide is for new employees or existing employees that need to contribute to our codebase. Follow the steps below to get started with your GitHub account and join our organization.
 
 ## Step 1: Sign Up for GitHub
 
