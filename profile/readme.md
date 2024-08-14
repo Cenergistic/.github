@@ -1,3 +1,3 @@
 TBD
 
-New employee? [Start here](<New Employee Guide.md>).
+New employee? [Start here](<New Contributor Guide.md>).
