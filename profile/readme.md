@@ -7,4 +7,6 @@ Get real-time insights and data at your fingertips with Cenergistic Optimize®. 
 - **Cenergistic Simulate®**: This tool helps your team quickly and accurately calibrate energy models for your facilities based on different scenarios, so you can make better-informed building decisions.
 - **Cenergistic Measure®**: A user-friendly energy accounting tool that lets your team visualize and verify the performance of your energy program with no special training needed.
 
-New to the team? [Start here](<../New Contributor Guide.md>).
+## New to the team? 
+
+Start [here](<../New Contributor Guide.md>) 👈
