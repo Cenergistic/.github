@@ -1,4 +1,3 @@
-
 # Welcome to Cenergistic
 
 This guide is for new employees. Follow the steps below to get started with your GitHub account and join our organization.
