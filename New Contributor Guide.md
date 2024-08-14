@@ -1,6 +1,6 @@
-# Welcome to Cenergistic
+# New Contributor Guide
 
-This guide is for new employees. Follow the steps below to get started with your GitHub account and join our organization.
+Follow the steps below to get started with your GitHub account and join our organization.
 
 ## Step 1: Sign Up for GitHub
 
